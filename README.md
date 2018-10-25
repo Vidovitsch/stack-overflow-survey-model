@@ -1,6 +1,6 @@
 # The job satisfaction of software developers
 
-*Can a accurate model be created, given the features denoted in the survey, to predict the job satisfaction of software developers?*
+*Can an accurate model be created, given the features denoted in the survey, to predict the job satisfaction of software developers?*
 
 The model will be seen as accurate if at least 90% of the predictions are the same as the target values denoted in the test set. The following approaches can be taken to get to this level of accuracy:
 +	Try different classification algorithms
