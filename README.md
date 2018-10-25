@@ -9,3 +9,5 @@ The model will be seen as accurate if at least 90% of the predictions are the sa
 +	Try adding polynomial features (x, x2, x3, … ,xn)
 
 The first approach is used to see which algorithm is best fit for the job initially. The last three approaches are used to solve potential high variance (overfit) or high bias (underfit) problems of the model.
+
+*Dataset source: https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey*
